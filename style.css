@@ -1,0 +1,35 @@
+body{
+    font-family: 'Otomanopee One', sans-serif;
+    margin: 0%;
+}
+h1{
+    font-size: 50px;
+}
+.name{
+    color: darkblue;
+}
+.blog{
+    color: darkorange;
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 10%;
+}
+.half-width img{
+    width: 80%;
+}
+.Button{
+    text-decoration: none;
+    background-image: linear-gradient(blue, gold, purple);
+    padding: 10px 30px;
+    color:red;
+    font-weight: 800;
+    border-radius: 10%;
+}
+.banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
